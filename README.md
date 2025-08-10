@@ -1,1 +1,1 @@
-<h2>Deep Learning in Python</h2>
+<h1>Deep Learning in Python</h1>
